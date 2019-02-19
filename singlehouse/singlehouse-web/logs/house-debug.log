@@ -1,0 +1,27 @@
+2019-02-19 20:14:58.410  [http-nio-8888-exec-1] DEBUG [com.qzing.singlehouse.mapper.UserMapper.selectUsers:] http-nio-8888-exec-1cid - ==>  Preparing: select name,phone,email from user 
+2019-02-19 20:14:58.457  [http-nio-8888-exec-1] DEBUG [com.qzing.singlehouse.mapper.UserMapper.selectUsers:] http-nio-8888-exec-1cid - ==> Parameters: 
+2019-02-19 20:14:58.475  [http-nio-8888-exec-1] DEBUG [com.qzing.singlehouse.mapper.UserMapper.selectUsers:] http-nio-8888-exec-1cid - <==      Total: 11
+2019-02-19 20:20:32.354  [http-nio-8888-exec-1] DEBUG [com.qzing.singlehouse.mapper.UserMapper.selectUsers:] http-nio-8888-exec-1cid - ==>  Preparing: select name,phone,email from user 
+2019-02-19 20:20:32.410  [http-nio-8888-exec-1] DEBUG [com.qzing.singlehouse.mapper.UserMapper.selectUsers:] http-nio-8888-exec-1cid - ==> Parameters: 
+2019-02-19 20:20:32.431  [http-nio-8888-exec-1] DEBUG [com.qzing.singlehouse.mapper.UserMapper.selectUsers:] http-nio-8888-exec-1cid - <==      Total: 11
+2019-02-19 20:22:18.077  [http-nio-8888-exec-4] DEBUG [com.qzing.singlehouse.mapper.UserMapper.selectUsers:] http-nio-8888-exec-4cid - ==>  Preparing: select name,phone,email from user 
+2019-02-19 20:22:18.077  [http-nio-8888-exec-4] DEBUG [com.qzing.singlehouse.mapper.UserMapper.selectUsers:] http-nio-8888-exec-4cid - ==> Parameters: 
+2019-02-19 20:22:18.083  [http-nio-8888-exec-4] DEBUG [com.qzing.singlehouse.mapper.UserMapper.selectUsers:] http-nio-8888-exec-4cid - <==      Total: 11
+2019-02-19 20:22:20.176  [http-nio-8888-exec-6] DEBUG [com.qzing.singlehouse.mapper.UserMapper.selectUsers:] http-nio-8888-exec-6cid - ==>  Preparing: select name,phone,email from user 
+2019-02-19 20:22:20.177  [http-nio-8888-exec-6] DEBUG [com.qzing.singlehouse.mapper.UserMapper.selectUsers:] http-nio-8888-exec-6cid - ==> Parameters: 
+2019-02-19 20:22:20.179  [http-nio-8888-exec-6] DEBUG [com.qzing.singlehouse.mapper.UserMapper.selectUsers:] http-nio-8888-exec-6cid - <==      Total: 11
+2019-02-19 20:27:17.134  [http-nio-8888-exec-8] DEBUG [com.qzing.singlehouse.mapper.UserMapper.selectUsers:] http-nio-8888-exec-8cid - ==>  Preparing: select name,phone,email from user 
+2019-02-19 20:27:17.185  [http-nio-8888-exec-8] DEBUG [com.qzing.singlehouse.mapper.UserMapper.selectUsers:] http-nio-8888-exec-8cid - ==> Parameters: 
+2019-02-19 20:27:17.202  [http-nio-8888-exec-8] DEBUG [com.qzing.singlehouse.mapper.UserMapper.selectUsers:] http-nio-8888-exec-8cid - <==      Total: 11
+2019-02-19 20:32:09.103  [http-nio-8888-exec-1] DEBUG [com.qzing.singlehouse.mapper.UserMapper.selectUsers:] http-nio-8888-exec-1cid - ==>  Preparing: select name,phone,email from user 
+2019-02-19 20:32:09.157  [http-nio-8888-exec-1] DEBUG [com.qzing.singlehouse.mapper.UserMapper.selectUsers:] http-nio-8888-exec-1cid - ==> Parameters: 
+2019-02-19 20:32:09.175  [http-nio-8888-exec-1] DEBUG [com.qzing.singlehouse.mapper.UserMapper.selectUsers:] http-nio-8888-exec-1cid - <==      Total: 11
+2019-02-19 20:32:43.561  [http-nio-8888-exec-4] DEBUG [com.qzing.singlehouse.mapper.UserMapper.selectUsers:] http-nio-8888-exec-4cid - ==>  Preparing: select name,phone,email from user 
+2019-02-19 20:32:43.561  [http-nio-8888-exec-4] DEBUG [com.qzing.singlehouse.mapper.UserMapper.selectUsers:] http-nio-8888-exec-4cid - ==> Parameters: 
+2019-02-19 20:32:43.566  [http-nio-8888-exec-4] DEBUG [com.qzing.singlehouse.mapper.UserMapper.selectUsers:] http-nio-8888-exec-4cid - <==      Total: 11
+2019-02-19 20:35:30.746  [http-nio-8888-exec-8] DEBUG [com.qzing.singlehouse.mapper.UserMapper.selectUsers:] http-nio-8888-exec-8cid - ==>  Preparing: select name,phone,email from user 
+2019-02-19 20:35:30.809  [http-nio-8888-exec-8] DEBUG [com.qzing.singlehouse.mapper.UserMapper.selectUsers:] http-nio-8888-exec-8cid - ==> Parameters: 
+2019-02-19 20:35:30.844  [http-nio-8888-exec-8] DEBUG [com.qzing.singlehouse.mapper.UserMapper.selectUsers:] http-nio-8888-exec-8cid - <==      Total: 11
+2019-02-19 20:44:23.993  [http-nio-8888-exec-1] DEBUG [com.qzing.singlehouse.mapper.UserMapper.selectUsers:] http-nio-8888-exec-1cid - ==>  Preparing: select name,phone,email from user 
+2019-02-19 20:44:23.994  [http-nio-8888-exec-1] DEBUG [com.qzing.singlehouse.mapper.UserMapper.selectUsers:] http-nio-8888-exec-1cid - ==> Parameters: 
+2019-02-19 20:44:23.997  [http-nio-8888-exec-1] DEBUG [com.qzing.singlehouse.mapper.UserMapper.selectUsers:] http-nio-8888-exec-1cid - <==      Total: 11
